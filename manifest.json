@@ -1,7 +1,7 @@
 {
   "name": "My Cool App",
   "short_name": "CoolApp",
-  "start_url": ".",
+  "start_url": "/js-worker-api",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196f3",
